@@ -1,27 +1,19 @@
 # MouetteStern
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.8.
+Petit site web (angular CLI) pour la liste
 
-## Development server
+## Comment lancer le site en local
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Avoir node et npm installés sur le pc et taper `ng serve` sur un invité de commande dans le dossier principal. Il faut ensuite taper cet url `http://localhost:4200/`. Le site local changera automatiquement si il y a des changements sur des fichiers.
 
-## Code scaffolding
+## Rajouter un component
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Dans l'invité de commande, taper `ng generate component component-name` ou `ng generate directive|pipe|service|class|guard|interface|enum|module` (faut les rajouter comme ça pour que la compilation marche bien)
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+`ng build` permet de build le projet, en gros ça génère un artifact qui est un peu l'équivalent d'un .exe, l'artifact sera dans le dossier `dist/.
 
-## Running unit tests
+## Aide
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Pour plus d'info taper `ng help` ou aller sur [cette page web](https://angular.io/cli).
