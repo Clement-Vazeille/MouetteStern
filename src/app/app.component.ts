@@ -6,12 +6,10 @@ import { Component } from '@angular/core';
     
     <!-- header -->
     <app-header></app-header>
-    <app-liste></app-liste>
-    <app-homepage></app-homepage>
-    <!-- les trucs principaux sont ici -->
+    
     <router-outlet></router-outlet>
 
-    <!-- footer 
+    <!-- footer  actuellement il n'y en a pas
     <app-footer></app-footer>-->
   `,
   styles: []
