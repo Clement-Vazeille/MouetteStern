@@ -13,7 +13,7 @@ import { Component } from '@angular/core';
   `,
   styles: [`
   .hero{
-    background-image: url('/assets/img/MouetteStern_Dos.png') !important;
+    background-image: url('/assets/img/Mouette_Dezoom2.png') !important;
     background-size: cover;
     background-position: center center;
 }

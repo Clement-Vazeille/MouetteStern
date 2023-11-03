@@ -8,11 +8,11 @@ Avoir node et npm installés sur le pc et taper `ng serve` sur un invité de com
 
 ## Rajouter un component
 
-Dans l'invité de commande, taper `ng generate component component-name` ou `ng generate directive|pipe|service|class|guard|interface|enum|module` (faut les rajouter comme ça pour que la compilation marche bien)
+Dans l'invité de commande, taper `ng generate component component-name`en gros un component c'est par exemple une page en plus pour le site (faut les rajouter comme ça pour que la compilation marche bien)
 
 ## Build
 
-`ng build` permet de build le projet, en gros ça génère un artifact qui est un peu l'équivalent d'un .exe, l'artifact sera dans le dossier `dist/.
+`ng build` permet de build le projet, en gros ça génère dans le dossier dist/ les fichers qui contiennent le siteweb et qu'on envoi au serveur après.
 
 ## Aide
 
