@@ -138,12 +138,7 @@ import { Component } from '@angular/core';
   </div>
   </section>
   `,
-  styles: [`
-  .hero{
-    background-image: url('/assets/img/Mouette_Dezoom2.png') !important;
-    background-size: cover;
-    background-position: center center;
-   }`
+  styles: [
   ]
 })
 export class ListeComponent {

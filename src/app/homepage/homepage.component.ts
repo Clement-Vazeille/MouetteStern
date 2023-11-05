@@ -5,9 +5,6 @@ import { Component } from '@angular/core';
   template: `
   <section class="hero is-warning is-bold is-fullheight">
   <div class="hero-body">
-    <p class="title">
-      Site officiel des MouetteStern
-    </p>
   </div>
   </section>
   `,
