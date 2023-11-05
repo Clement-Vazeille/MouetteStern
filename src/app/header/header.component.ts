@@ -4,19 +4,19 @@ import { Component } from '@angular/core';
   selector: 'app-header',
   template: `
     <div class="navbar is-dark " >
-      <!-- logo -->
+      <!-- le logo -->
       <div class="navbar-brand" >
         <a class="navbar-item" routerLink="/">
           <img src="assets/img/MouetteStern_Coeur.png">
         </a>
       </div>
       
-      <!-- menu -->
+      <!-- le menu -->
       <div class="navbar-menu">
       <div class="navbar-start">
         <a class="navbar-item" routerLink="/">Saloon</a>
         <a class="navbar-item" routerLink="/allos">Allos</a>
-        <a class="navbar-item" routerLink="/liste">Liste</a>
+        <a class="navbar-item" routerLink="/liste">Trombi</a>
       </div>
       </div>
     </div>

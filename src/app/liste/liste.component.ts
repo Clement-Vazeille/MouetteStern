@@ -13,7 +13,7 @@ import { Component } from '@angular/core';
       <div class="tile">
 
       <div class="tile is-parent">
-        <article class="tile is-child notification is-$orange">
+        <article class="tile is-child notification is-primary">
           <p class="title">Prez</p>
           <p class="subtitle">Arthur</p>
           <figure class="image is-4by3">
@@ -26,12 +26,12 @@ import { Component } from '@angular/core';
           <p class="title">Vice Prez</p>
           <p class="subtitle">Benjamin</p>
           <figure class="image is-4by3">
-            <img src="assets/img/benji.png">
+            <img src="assets/img/diego.png">
           </figure>
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-danger">
+        <article class="tile is-child notification is-link">
           <p class="title">Vice Prez</p>
           <p class="subtitle">Samuel</p>
           <figure class="image is-4by3">
@@ -40,7 +40,7 @@ import { Component } from '@angular/core';
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-danger">
+        <article class="tile is-child notification is-light">
           <p class="title">Trez</p>
           <p class="subtitle">Maël</p>
           <figure class="image is-4by3">
@@ -52,7 +52,7 @@ import { Component } from '@angular/core';
 
       <div class="tile">
       <div class="tile is-parent">
-        <article class="tile is-child notification is-danger">
+        <article class="tile is-child notification is-link">
           <p class="title">Trez</p>
           <p class="subtitle">Louis</p>
           <figure class="image is-4by3">
@@ -61,7 +61,7 @@ import { Component } from '@angular/core';
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-danger">
+        <article class="tile is-child notification is-light">
           <p class="title">SecGen</p>
           <p class="subtitle">Théo</p>
           <figure class="image is-4by3">
@@ -79,7 +79,7 @@ import { Component } from '@angular/core';
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-danger">
+        <article class="tile is-child notification is-primary">
           <p class="title">Respo Event</p>
           <p class="subtitle">Louis</p>
           <figure class="image is-4by3">
@@ -92,7 +92,7 @@ import { Component } from '@angular/core';
       <div class="tile">
 
       <div class="tile is-parent">
-        <article class="tile is-child notification is-danger">
+        <article class="tile is-child notification is-primary">
           <p class="title">Sec écolo</p>
           <p class="subtitle">Abdelhamid</p>
           <figure class="image is-4by3">
@@ -101,7 +101,7 @@ import { Component } from '@angular/core';
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-danger">
+        <article class="tile is-child notification is-link">
           <p class="title">Respo COM</p>
           <p class="subtitle">Aurélien</p>
           <figure class="image is-4by3">
@@ -110,16 +110,16 @@ import { Component } from '@angular/core';
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-danger">
+        <article class="tile is-child notification is-light">
           <p class="title">Respo film</p>
           <p class="subtitle">Diégo</p>
           <figure class="image is-4by3">
-            <img src="assets/img/diego.png">
+            <img src="assets/img/benji.png">
           </figure>
         </article>
       </div>
       <div class="tile is-parent">
-        <article class="tile is-child notification is-danger">
+        <article class="tile is-child notification is-dark">
           <p class="title">Respo Sensi</p>
           <p class="subtitle">Timothée</p>
           <figure class="image is-4by3">

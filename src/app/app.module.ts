@@ -7,6 +7,7 @@ import { FooterComponent } from './footer/footer.component';
 import { HomepageComponent } from './homepage/homepage.component';
 import { AllosComponent } from './allos/allos.component';
 import { ListeComponent } from './liste/liste.component';
+import { NumeroComponent } from './numero/numero.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { ListeComponent } from './liste/liste.component';
     FooterComponent,
     HomepageComponent,
     AllosComponent,
-    ListeComponent
+    ListeComponent,
+    NumeroComponent
   ],
   imports: [
     BrowserModule,
