@@ -3,6 +3,8 @@ import { RouterModule, Routes } from '@angular/router';
 import { HomepageComponent } from './homepage/homepage.component';
 import { ListeComponent } from './liste/liste.component';
 import { AllosComponent } from './allos/allos.component';
+import { BilanCarboneComponent } from './bilan-carbone/bilan-carbone.component';
+import { BilletterieComponent } from './billetterie/billetterie.component';
 
 const routes: Routes = [
   {
@@ -16,6 +18,14 @@ const routes: Routes = [
   {
     path: "allos",
     component: AllosComponent
+  },
+  {
+    path: "bilanCarb",
+    component: BilanCarboneComponent
+  },
+  {
+    path: "billetterie",
+    component: BilletterieComponent
   }
 ];
 
