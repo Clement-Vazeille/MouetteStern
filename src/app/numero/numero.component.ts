@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
     <section class="hero is-warning">
     <div class="hero-body">
       <p class="title">
-        Numéro de téléphone : 06 ** ** ** **
+        Numéro de téléphone : 06 52 03 30 83
       </p>
     </div>
 </section>
