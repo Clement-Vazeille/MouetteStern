@@ -9,21 +9,19 @@ import { Component } from '@angular/core';
         <a class="navbar-item" routerLink="/">
           <img src="assets/img/MouetteStern_Coeur.png">
         </a>
-      </div>
-      
-      <!-- le menu -->
-      <div class="navbar-brand">
-      <div class="navbar-start">
         <a class="navbar-item" routerLink="/">Saloon</a>
         <a class="navbar-item" routerLink="/allos">Allos</a>
         <a class="navbar-item" routerLink="/liste">Trombi</a>
-      </div>
       </div>
     </nav>
 
     
   `,
-  styles: [
+  styles: [`
+  .navbar{
+    height: 3.5rem;
+  }
+  `
   ]
 })
 export class HeaderComponent {
