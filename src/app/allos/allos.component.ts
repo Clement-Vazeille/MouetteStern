@@ -19,11 +19,9 @@ import { Component } from '@angular/core';
   <div class="card-content">
 
     <div class="content">
-      Wrap classique : jambon, fromage à tartiner
-      <br>
-      Wrap Spicy : poulet, poivron, sauce piquante
-      <br>
-      Wrap végé : poivron, carotte,  oignon caramélisé
+    <h2 class="subtitle is-6">Classique : jambon, fromage à tartiner</h2>
+    <h2 class="subtitle is-6">Spicy : poulet, poivron, sauce piquante</h2>
+      <h2 class="subtitle is-6">Végé : poivron, carotte, oignon caramélisé</h2>
     </div>
   </div>
   </div>
@@ -42,10 +40,8 @@ import { Component } from '@angular/core';
 <div class="card-content">
 
 <div class="content">
-    Envie d'affronter les cow-boyz ?
-    <br>
-    Alors dégainez les manettes, parce qu'on ramène la Switch,
-    avec Mar'Stern Kart et Super Smash Bros UltiMouette.
+<h2 class="subtitle is-6">Envie d'affronter les cow-boyz ?</h2>
+    <h2 class="subtitle is-6">Alors dégainez les manettes, parce qu'on ramène la Switch, avec Mar'Stern Kart et Super Smash Bros UltiMouette.</h2>
   </div>
 
 </div>
@@ -65,11 +61,11 @@ import { Component } from '@angular/core';
   <div class="card-content">
 
   <div class="content">
-      Les crêpes des Mouettes :
-      <br>
-      Crêpes chocolat
-      <br>
-      Crêpes confiture
+  <h2 class="subtitle is-6">Les crêpes des Mouettes :</h2>
+      
+      <h2 class="subtitle is-6">Crêpes chocolat</h2>
+      
+      <h2 class="subtitle is-6">Crêpes confiture</h2>
     </div>
 
   </div>
@@ -89,7 +85,7 @@ import { Component } from '@angular/core';
 <div class="card-content">
 
 <div class="content">
-    Envi d'un petit remontant après une traversée du désert ?
+<h2 class="subtitle is-6">Envi d'un petit remontant après une traversée du désert ?</h2>
   </div>
 
 </div>
@@ -109,7 +105,7 @@ import { Component } from '@angular/core';
   <div class="card-content">
 
     <div class="content">
-      Jeu d'alcool préféré des cowboys
+    <h2 class="subtitle is-6">Jeu d'alcool préféré des cowboys</h2>
     </div>
   </div>
   </div>
