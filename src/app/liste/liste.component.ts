@@ -20,7 +20,7 @@ import { Component } from '@angular/core';
 
     <div class="content">
     <h1 class="title is-2">Arthur</h1>
-    <h2 class="subtitle is-5">Pres</h2>
+    <h2 class="subtitle is-5">Prez</h2>
     </div>
   </div>
   </div>
@@ -80,7 +80,7 @@ import { Component } from '@angular/core';
 <div class="card-content">
 
 <div class="content">
-<h1 class="title is-2">Aurlien</h1>
+<h1 class="title is-2">Aurélien</h1>
     <h2 class="subtitle is-5">Respo Com</h2>
   </div>
 
