@@ -8,6 +8,10 @@ import { Component } from '@angular/core';
   <div class="columns">
   <div class="column is-12">
 
+  <figure class="image is-16by9">
+  <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/nTHgbYOtl2M?si=xkA5xygGQyMMenuV" frameborder="0" allowfullscreen></iframe>
+</figure>
+
   <section class="hero">
     <div class="hero-body">
   
@@ -26,9 +30,7 @@ import { Component } from '@angular/core';
   </div>
   </section>
 
-  <figure class="image is-16by9">
-  <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/nTHgbYOtl2M?si=xkA5xygGQyMMenuV" frameborder="0" allowfullscreen></iframe>
-</figure>
+
     
   </div>
   </div>
