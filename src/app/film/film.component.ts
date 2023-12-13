@@ -27,7 +27,7 @@ import { Component } from '@angular/core';
   </section>
 
   <figure class="image is-16by9">
-  <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/8T6bLXNEIC0" frameborder="0" allowfullscreen></iframe>
+  <iframe class="has-ratio" width="640" height="360" src="https://www.youtube.com/embed/nTHgbYOtl2M?si=xkA5xygGQyMMenuV" frameborder="0" allowfullscreen></iframe>
 </figure>
     
   </div>
