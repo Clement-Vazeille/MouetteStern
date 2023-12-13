@@ -106,9 +106,32 @@ import { Component } from '@angular/core';
 
     <div class="content">
     <h2 class="subtitle is-6">Jeu d'alcool préféré des cowboys</h2>
+    <h2 class="subtitle is-6">On arrive avec nos nerfs</h2>
+    <h2 class="subtitle is-6">Préparez vous à devoir boire</h2>
     </div>
   </div>
   </div>
+
+  <section class="hero">
+    <div class="hero-body">
+    </div>
+  </section>
+
+  <div class="card" radius = 100.25rem>
+<div class="card-image" height="200" width="200">
+  <figure class="image is-square">
+    <img src="assets/img/Allo_Film.png" height="150" width="100">
+  </figure>
+</div>
+<div class="card-content">
+
+<div class="content">
+<h2 class="subtitle is-6">Envi de regarder le meilleur film de liste ?</h2>
+  </div>
+
+</div>
+  </div>
+
   </div>
 
 

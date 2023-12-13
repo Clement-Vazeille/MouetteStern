@@ -10,6 +10,7 @@ import { ListeComponent } from './liste/liste.component';
 import { NumeroComponent } from './numero/numero.component';
 import { BilanCarboneComponent } from './bilan-carbone/bilan-carbone.component';
 import { BilletterieComponent } from './billetterie/billetterie.component';
+import { FilmComponent } from './film/film.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { BilletterieComponent } from './billetterie/billetterie.component';
     ListeComponent,
     NumeroComponent,
     BilanCarboneComponent,
-    BilletterieComponent
+    BilletterieComponent,
+    FilmComponent
   ],
   imports: [
     BrowserModule,

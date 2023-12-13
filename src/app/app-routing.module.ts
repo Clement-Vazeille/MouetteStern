@@ -5,6 +5,7 @@ import { ListeComponent } from './liste/liste.component';
 import { AllosComponent } from './allos/allos.component';
 import { BilanCarboneComponent } from './bilan-carbone/bilan-carbone.component';
 import { BilletterieComponent } from './billetterie/billetterie.component';
+import { FilmComponent } from './film/film.component';
 
 const routes: Routes = [
   {
@@ -26,6 +27,10 @@ const routes: Routes = [
   {
     path: "billetterie",
     component: BilletterieComponent
+  },
+  {
+    path: "film",
+    component: FilmComponent
   }
 ];
 
