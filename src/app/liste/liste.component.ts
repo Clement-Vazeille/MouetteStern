@@ -119,7 +119,7 @@ import { Component } from '@angular/core';
 
   <div class="content">
   <h1 class="title is-2">Benjamin</h1>
-  <h2 class="subtitle is-5">Vice Pres</h2>
+  <h2 class="subtitle is-5">Vice Prez</h2>
   </div>
 </div>
 </div>
@@ -218,7 +218,7 @@ import { Component } from '@angular/core';
 
   <div class="content">
   <h1 class="title is-2">Samuel</h1>
-  <h2 class="subtitle is-5">Vice Pres</h2>
+  <h2 class="subtitle is-5">Vice Prez</h2>
   </div>
 </div>
 </div>
